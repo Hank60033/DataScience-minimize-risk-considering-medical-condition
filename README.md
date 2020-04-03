@@ -1,4 +1,4 @@
-# DataScience-minimize-risk-considering-medical-condition
+# DataScience-Risk-Minimization-For-Medical-Insurance-Company
 ![image](cms.png)
 ## Association overview
 The Centers for Medicare & Medicaid Services (CMS) is a federal agency within the United States Department of Health and Human Services (HHS) that administers the Medicare program and works in partnership with state governments to administer Medicaid, the Children's Health Insurance Program (CHIP), and health insurance portability standards.
